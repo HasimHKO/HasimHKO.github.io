@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : 
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Haşim Hakanoğlu "
   avatar           : "profile.JPG"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "A molecular biologist breaking into bioinformatics"
   location         : "Istanbul, Turkey"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : 
+  email            : "hasim.hakanoglu@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Hasim-Hakanoglu"
   uri              :
   bitbucket        :
