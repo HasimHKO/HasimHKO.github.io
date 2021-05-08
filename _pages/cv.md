@@ -26,7 +26,7 @@ Work experience
 * Fall-Spring 2019: Undergraduate Researcher
   * Istanbul Bilgi University
   * Training: mammalian cell culture, PCR, qPCR, and western blotting.
-  * Duties: Optimization of PCR protocol to isolate PAI-1 (SERPINE1) from patient samples for cloning
+  * Duties: optimization of PCR protocol to isolate PAI-1 (SERPINE1) from patient samples for cloning
   * Supervisor: Assist. Prof. Dr. Yuk Yin Ng
 
 * Summer 2019: Research Intern
@@ -53,12 +53,6 @@ Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
